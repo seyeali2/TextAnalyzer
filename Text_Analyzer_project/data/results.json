@@ -1,0 +1,86 @@
+[
+    {
+        "file": "data/data.txt",
+        "word_count": 50,
+        "most_common_words": [
+            [
+                "is",
+                3
+            ],
+            [
+                "of",
+                2
+            ],
+            [
+                "to",
+                2
+            ],
+            [
+                "learn",
+                2
+            ],
+            [
+                "with",
+                2
+            ]
+        ],
+        "long_words": [],
+        "version": 1
+    },
+    {
+        "file": "data/data.txt",
+        "word_count": 53,
+        "most_common_words": [
+            [
+                "is",
+                3
+            ],
+            [
+                "of",
+                2
+            ],
+            [
+                "to",
+                2
+            ],
+            [
+                "learn",
+                2
+            ],
+            [
+                "with",
+                2
+            ]
+        ],
+        "long_words": [],
+        "version": 2
+    },
+    {
+        "file": "data/data.txt",
+        "word_count": 58,
+        "most_common_words": [
+            [
+                "is",
+                3
+            ],
+            [
+                "of",
+                2
+            ],
+            [
+                "to",
+                2
+            ],
+            [
+                "learn",
+                2
+            ],
+            [
+                "with",
+                2
+            ]
+        ],
+        "long_words": [],
+        "version": 3
+    }
+]
